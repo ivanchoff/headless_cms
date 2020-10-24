@@ -30,4 +30,11 @@ Publication system (draft & published)
 
 Role-based access control
 
-esto es un template que hay que adaptar
+### esto es un template que hay que adaptar
+
+## como ejecutar?
+
+```bash
+npm install
+npm run develop
+```
